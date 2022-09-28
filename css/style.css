@@ -1,6 +1,7 @@
 body{
     font-family: 'Inter', sans-serif;
     font-weight: normal;
+    background-color: red;
 }
 
 .container,.main-container{
